@@ -1,0 +1,4 @@
+a) The method with the highest CPU time is the _find_min method of the PriorityQueue class
+b) The _find_min method is 259964 times for the sample input
+c) The priorty queue is represented as an array, so the worst case running time is O(n)
+d) If we switch to a min heap to represent the priority queue, finding the minimum will take O(1) time
