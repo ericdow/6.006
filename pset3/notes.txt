@@ -1,0 +1,20 @@
+Problem 3-1
+a) An AVL tree will work nicely, since they support sub-linear insertion, find-min and find-max
+b) Insert takes O(log n) time for an AVL tree
+c) Finding the minimum will take O(log n) since we just keep looking left from the root
+d) Finding the maximum will take O(log n) since we just keep looking right from the root
+e) COUNT(l,h) = RANK(h) - RANK(l) + 1
+f)
+g)
+h)
+i) You should store the number of nodes in the subtree rooted at each node
+j) O(log n) extra bits per node
+k) 1
+l) 3
+m) 6
+n) 10
+
+Problem 3-2
+a) The intersects method is slowest
+b)
+c) 
